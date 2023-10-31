@@ -1,0 +1,44 @@
+body{
+    background-image: url(assets/snake-background.jpeg);
+}
+h1 {
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.canvasDiv {
+    border-radius: 10px;
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    border: 5px solid white;
+}
+.scoreDiv {
+    border-radius: 10px;
+    color: white;
+    border: 5px solid white;
+    margin: auto;
+    margin-top: 1%;
+    width: fit-content;
+    padding-left: 1%;
+    padding-right: 1%;
+    text-align: center;
+    background-color: black;
+}
+.textDiv {
+    display: inline-block;
+    float: left;
+    border-radius: 10px;
+    color: white;
+    border: 5px solid white;
+    width: fit-content;
+    max-width: 24%;
+    margin-left: 4%;
+    padding-left: 1%;
+    padding-right: 1%;
+    text-align: center;
+    background-color: black;
+}
+ol {
+    text-align: left;
+    font-size: 14px;
+}
