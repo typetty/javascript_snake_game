@@ -1,5 +1,5 @@
 body{
-    background-image: url('snake-background.jpeg');
+    background-image: url(/snake-background.jpeg);
 }
 h1 {
     text-align: center;
